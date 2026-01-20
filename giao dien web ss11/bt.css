@@ -78,7 +78,7 @@ h2 {
   color: #c0392b;
 }
 
-.food-items {
+.food-item {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
@@ -91,6 +91,7 @@ h2 {
   border: 1px solid #eee;
   border-radius: 8px;
 }
+
 
 
 
